@@ -13,3 +13,6 @@ Task 3: Evaluating Responses: Design evaluation pipeline for above task 2. Came 
 strategy which can be used to evaluate generated response from AI model. (20 points)
 
 Task 4: Integrate to Gradio UI: Try to integrate task 1 & task 2 with the Gradio UI. (20 points)
+
+## Steps To Run
+`python3 chatbot.py`
